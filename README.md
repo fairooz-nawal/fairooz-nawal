@@ -50,10 +50,10 @@ Always eager to learn, collaborate, and grow as a developer.
 
 ### 📝 Highlight Projects
 
-- 🎮 [Game Heist](https://github.com/fairooz-nawal/game-heist) – Game review app with Firebase auth and watchlist.
-- 💬 [Doctor Talk App](https://github.com/fairooz-nawal/doctor-talk-client) – Appointment SPA with analytics using Recharts.
-- 🧾 [Porishod](https://github.com/fairooz-nawal/porishod) – Utility bill manager with real-time Firebase updates.
-- ✅ [Vouch Vault](https://github.com/fairooz-nawal/vouch-vault-client) – Service review system with JWT auth and admin dashboard.
+- 🎮 [Game Heist](https://github.com/fairooz-nawal/Game-Heist-Client-Side) – Game review app with Firebase auth and watchlist.
+- 💬 [Doctor Talk App](https://github.com/fairooz-nawal/Doctor-Talk-App) – Appointment SPA with analytics using Recharts.
+- 🧾 [People's Matrimony](https://github.com/fairooz-nawal/People-s-Matrimony-CLient-Side) – A platform that connects users with potential life partners in a secure and elegant environment.
+- ✅ [Vouch Vault](https://github.com/fairooz-nawal/Vouch-Vault-Client-Side) – Service review system with JWT auth and admin dashboard.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
