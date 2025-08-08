@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="[https://your-banner-image-link.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGbpuiKBy7UXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695232940847?e=2147483647&v=beta&t=j5vdQ9SuzFW_DHx-uuioTSfwqtSLSMv1xBJWMbpjmt8)" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Syeda Fairooz Nawal</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">MERN Stack Developer | Frontend Developer | React Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairooz-nawal&label=Profile%20views&color=0e75b6&style=flat" alt="fairooz-nawal" /> </p>
 
