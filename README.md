@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-banner-image-link.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGbpuiKBy7UXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695232940847?e=2147483647&v=beta&t=j5vdQ9SuzFW_DHx-uuioTSfwqtSLSMv1xBJWMbpjmt8)" alt="Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGbpuiKBy7UXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695232940847?e=2147483647&v=beta&t=j5vdQ9SuzFW_DHx-uuioTSfwqtSLSMv1xBJWMbpjmt8" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Syeda Fairooz Nawal</h1>
 <h3 align="center">MERN Stack Developer | Frontend Developer | React Enthusiast </h3>
@@ -10,17 +10,50 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Vouch Vault**
+### 👩‍💻 About Me
 
-- 🌱 I’m currently Completing my course **with Programming Hero batch 11**
+Hi! I’m a passionate and detail-oriented web developer from Bangladesh.  
+I love building user-centric, dynamic web apps using modern JavaScript technologies.  
+Problem-solving, clean UI, and improving UX drive me forward.  
+Always eager to learn, collaborate, and grow as a developer.
 
+### 🚀 Currently I'm:
+
+- 🔭 Working on a Tourism Website with hotel listings and user reviews.
+- 🌱 Exploring Next.js and advanced React design patterns.
+- ✨ Polishing UI/UX skills and enhancing app performance.
+- 💼 Applying for Frontend Developer roles.
 - 👨‍💻 All of my projects are available at [https://github.com/fairooz-nawal](https://github.com/fairooz-nawal)
+
+### 🧰 Tech Stack & Tools
+
+#### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+</p>
+
+#### 🛠️ Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+#### ⚙️ Dev Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vsCode,postman,figma" />
+</p>
 
 - 💬 Ask me about **React js, Mongo db, Express Js, Firebase**
 
 - 📫 How to reach me **syedafairooznawal01@gmail.com**
 
 - 📄 Know about my experiences [https://syeda-fairooz-nawal-portfolio.netlify.app/](https://syeda-fairooz-nawal-portfolio.netlify.app/)
+
+### 📝 Highlight Projects
+
+- 🎮 [Game Heist](https://github.com/fairooz-nawal/game-heist) – Game review app with Firebase auth and watchlist.
+- 💬 [Doctor Talk App](https://github.com/fairooz-nawal/doctor-talk-client) – Appointment SPA with analytics using Recharts.
+- 🧾 [Porishod](https://github.com/fairooz-nawal/porishod) – Utility bill manager with real-time Firebase updates.
+- ✅ [Vouch Vault](https://github.com/fairooz-nawal/vouch-vault-client) – Service review system with JWT auth and admin dashboard.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
